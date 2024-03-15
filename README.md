@@ -6,7 +6,7 @@
 
 ![fernando GitHub starts](https://github-readme-stats.vercel.app/api?username=fernando-sebastiao&show_icons=true&theme=radical)
 
-![fernando GitHub starts](https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-sebastiao&theme=blue-green)
+![fernando GitHub starts](https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-sebastiao&theme=radical)
 
 ## Tecnologias Usadas
 

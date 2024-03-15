@@ -36,25 +36,23 @@
 
 ## Tools
 <div  style="display:inline_block; margin:19px; ">
-    <img align="center" style="margin:10px"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Code">
+    <img align="center" style="margin:10px"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=black" alt="Visual Code">
     <img align="center" style="margin:10px"  src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
     <img align="center" style="margin:10px"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GIT HUB">
+    <img align="center" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=black" alt="JWB">
+    <img align="center" style="margin:10px"  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black" alt="Windows">
+
 
 </div>
 
 ## Styding in the Moment
 
 <div style="display: inline_block">
-<img align="center" style="margin:10px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
+<img align="center" style="margin:10px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black" alt="Typescript">
 <img align="center" style="margin-right:10px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-<img align="center" style="margin:10px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
-<img align="center" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JWB">
-</div>
+<img align="center" style="margin:10px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=black" alt="Prisma">
+<img align="center" style="margin:10px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+</div> 
 
-
-
-<div>
-
-</div>
-Apaixonado por progração e gosto efectivamente de trazer soluções reais por meio da tecnológia.
+### Apaixonado por progração e gosto efectivamente de trazer soluções reais por meio da tecnológia.

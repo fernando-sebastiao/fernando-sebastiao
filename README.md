@@ -56,7 +56,7 @@
 
 </div>
 
-## Styding in the Moment
+## Studying in the Moment
 
 <div style="display: inline_block">
 <img align="center" style="margin:10px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black" alt="Typescript">

@@ -4,7 +4,7 @@
 [![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernando-sebastião-727a472b4)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandoafonso.official/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&yellow=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+This+Is+MY+PROFILE+REPOSITORIE;I'm+currently+studying+at+Makarenko,+'IPIL';I'm+from+África+Angola+Luanda;Follow+me+to+keep+up+to+date+with+my+project+;Be+Welcome!:%29)](https://git.io/typing-svg)
 
@@ -41,7 +41,7 @@
 <img align="center" style="margin:10px" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
-<img align="center" src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;" alt="Figma">
+<img align="center" src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117" alt="Figma">
 
 
 ## Tools
@@ -51,7 +51,7 @@
     <img align="center" style="margin:10px"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GIT HUB">
     <img align="center" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=black" alt="JWB">
     <img align="center" style="margin:10px"  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black" alt="Windows">
-    <img align="center" style="margin:10px"  src="https://img.shields.io/badge/-npm-0D1117?style=for-the-badge&logo=npm&labelColor=0D1117)&nbsp;" alt="NPM">
+    <img align="center" style="margin:10px"  src="https://img.shields.io/badge/-npm-0D1117?style=for-the-badge&logo=npm&labelColor=0D1117" alt="NPM">
     
 
 </div>

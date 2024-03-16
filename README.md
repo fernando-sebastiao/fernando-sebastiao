@@ -4,7 +4,7 @@
 [![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernando-sebastião-727a472b4)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandoafonso.official/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&yellow=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Fernando+Afonso+Sebastião&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+This+Is+MY+PROFILE+REPOSITORIE;I'm+currently+studying+at+Makarenko,+'IPIL';I'm+from+África+Angola+Luanda;Follow+me+to+keep+up+to+date+with+my+project+;Be+Welcome!:%29)](https://git.io/typing-svg)
 
@@ -75,7 +75,8 @@
     </p> 
   <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Follow+me&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 ### Apaixonado por progração e gosto efectivamente de trazer soluções reais por meio da tecnológia.
 </div>

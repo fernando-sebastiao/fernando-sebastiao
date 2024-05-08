@@ -78,5 +78,5 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Follow+me&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-### Apaixonado por progração e gosto efectivamente de trazer soluções reais por meio da tecnológia.
+### Apaixonado por programação e gosto efectivamente de trazer soluções reais por meio da tecnológia.
 </div>

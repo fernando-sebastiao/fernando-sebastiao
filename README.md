@@ -6,7 +6,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Fernando+Afonso+Sebastião&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Heey+what%27s+up!?,+I+am+Fernando+Sebastião+😉;I+am+from+Angola+🇦🇴;I+am+a+Software+Developer+👨🏾‍💻;I%27m+interning+now+at+Dev+Bantu+as+a+FullStack+Developer;Be+welcome+to+my+GitHub+profile!😁)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi+what%27s+up!?,+I+am+Fernando+Sebastião+😉;I+am+from+Angola+🇦🇴;I+am+a+Software+Developer+👨🏾‍💻;I%27m+interning+now+at+Dev+Bantu+as+a+FullStack+Developer;Be+welcome+to+my+GitHub+profile!😁)](https://git.io/typing-svg)
 
 
 <div align="center">  

@@ -1,4 +1,4 @@
-### Hello, I'm Fernando Sebastião👋!Be Welcome 👾;
+### Hello, I'm Fernando Sebastião👋!Be Welcome 🙏🏼👨🏼‍💻👾;
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](www.linkedin.com/in/fernando-sebastião-727a472b4)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vadilsonfernando.miranda/)
 [![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernando-sebastião-727a472b4)

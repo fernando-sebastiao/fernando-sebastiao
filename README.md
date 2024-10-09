@@ -10,7 +10,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Fernando+Afonso+Sebastião&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi+what%27s+up!?,+I+am+Fernando+Sebastião+😉;I+am+from+Angola+🇦🇴;I+am+a+Software+Developer+👨🏾‍💻;I%27m+interning+now+at+Dev+Bantu+as+a+FullStack+Developer;Be+welcome+to+my+GitHub+profile!😁)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=I'm+Fernando,+I'm+a+Software+Developer;I'm+a+Computer+Engineering+Student;Follow+me+to+stay+updated+on+my+projects!)](https://git.io/typing-svg)
+
 
 
 <div align="center">  
@@ -87,5 +88,5 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Follow+me&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-### Apaixonado por programação e gosto efectivamente de trazer soluções reais por meio da tecnológia.
+### Apaixonado por programação e gosto de trazer soluções reais por meio da tecnológia.
 </div>

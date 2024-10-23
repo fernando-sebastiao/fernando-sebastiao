@@ -10,7 +10,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Fernando+Afonso+Sebastião&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=I'm+Fernando+👨🏾‍💻,+I'm+a+Software+Developer;I'm+a+Computer+Engineering+Student+💻;Follow+me+to+stay+updated+on+my+projects!🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=I'm+Fernando+👨🏾‍💻,+I'm+a+Software+Developer;I'm+a+Computer+Engineering+Student+💻;Studying+at+Catholic+University+of+Angola+🎓;Follow+me+to+stay+updated+on+my+projects!🚀)](https://git.io/typing-svg)
 
 
 <div align="center">  

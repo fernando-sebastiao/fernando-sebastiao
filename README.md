@@ -23,14 +23,9 @@
   <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=fernando-sebastiao&theme=dark&background=0d1117&hide_border=false&border=0050b2"/>
 <div/>
 
-
-<div align="center">
-<h1>PROFILE REPOSITORIE</h1>
-</div>
-
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <h2>Ferramentas e Tecnologias</h2>
-  <div>
+  <h2 align="left">⚙Ferramentas e Tecnologias🛠</h2>
+  ###
+  <div align="left">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -54,8 +49,9 @@
     <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=black" alt="Prisma">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   </div>
-</div>
 
 <div align="center">
   <br>

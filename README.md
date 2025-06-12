@@ -53,7 +53,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" width="50">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50">
-    <<img src="https://img.icons8.com/ios-filled/50/4CAF50/console.png" alt="Shell Script" width="50"/>
+    <img src="https://img.icons8.com/fluency/48/console.png" alt="Shell Script" width="50"/>
 
   </div>
 

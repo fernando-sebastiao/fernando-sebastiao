@@ -59,14 +59,13 @@
 
 <div align="center">
   <br>
-    <p align="centre">
-      <b>Contagem de visitantas</b>
-    </p>  
-    <p align="center">
-      <img align="center" src="https://profile-counter.glitch.me/{fernando-sebastiao}/count.svg" />
-    </p> 
+  <p align="center"><b>Contador de Visitantes</b></p>
+  <p align="center">
+    ![Visitantes](https://komarev.com/ghpvc/?username=fernando-sebastiao&label=Profile%20views&color=00bfbf&style=flat)
+  </p>
   <br>
 </div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Follow+me&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 

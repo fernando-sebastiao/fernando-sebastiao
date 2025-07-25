@@ -54,7 +54,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" width="50">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50">
     <img src="https://img.icons8.com/fluency/48/console.png" alt="Shell Script" width="50"/>
-    <img src="https://img.icons8.com/?size=512&id=TuZPnCCbRxC0&format=png" alt="Next.js Red" width="50">
   </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Follow+me&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>

@@ -56,6 +56,8 @@
     <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="50">
   </div>
 
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fernando-sebastiao&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Follow+me&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 ### "Sou apaixonado por programação e movido pelo desafio de criar soluções práticas e inovadoras através da tecnologia."

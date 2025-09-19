@@ -1,7 +1,7 @@
 ### Hello, I'm Fernando Sebastião👋!Be Welcome 🙏🏼👨🏼‍💻👾;
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](www.linkedin.com/in/fernando-sebastião-727a472b4)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vadilsonfernando.miranda/)
-[![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernando-sebastião-727a472b4)
+[![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-sebasti%C3%A3o-727a472b4/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandoafonso.official/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Fernandoseb888)
 <a href="https://wa.me/929516315" target="_blank">

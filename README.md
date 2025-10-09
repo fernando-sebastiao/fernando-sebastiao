@@ -53,6 +53,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50">
     <img src="https://img.icons8.com/fluency/48/console.png" alt="Shell Script" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50">
     <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="50">
   </div>
 

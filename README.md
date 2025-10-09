@@ -50,8 +50,8 @@
     <img src="https://img.icons8.com/fluency/48/console.png" alt="Shell Script" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50">
     <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="50">
-    <img src="https://raw.githubusercontent.com/jaegertracing/jaeger/main/docs/images/jaeger-icon-reverse-color.svg" alt="Jaeger" width="50">
-    
+    <img src="https://raw.githubusercontent.com/jaegertracing/jaeger/main/docs/images/jaeger-logo.svg" alt="Jaeger" width="80"/>
+
   </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Follow+me&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
